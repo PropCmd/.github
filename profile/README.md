@@ -1,5 +1,9 @@
 # Welcome to PropCmd 👋
 
+<p align="center">
+  <img src="propcmd-banner.png" alt="PropCmd banner" width="900" />
+</p>
+
 PropCmd is a modern operational platform designed specifically for field service and lawn care professionals.
 
 ### What We Do
